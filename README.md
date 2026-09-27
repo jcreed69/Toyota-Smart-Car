@@ -18,11 +18,11 @@ This is a project where you use an ESP32 a round display and rotary encoder and 
 
 
 # What you need:
-1. FreeNove ESP32 Wroom(main Board) ---- https://www.amazon.co.uk/Freenove-Dual-core-Microcontroller-Wireless-Projects-2-Pack/dp/B0C9TGJRPH/ref=sr_1_2_sspa?crid=29W0QUWX9LBRD&dib=eyJ2IjoiMSJ9.beVRzgfFpa7S78WssaJYRQiS_c-vR-ZReQGUvDayev4s7gjNmL5oTh9_x25u_38YoKWxnaIrqT4ZcbmkeUb_R1IV0iwtU8mVcdv_jC5qHhjC03-cJr0dm_wbTZ9mKoLlcznQNbza2Rhq2MVQI0UPxG1mnY0jZKB1K-reI7F_ZPjY1Bt_zX-XeDOW4gNgBOM8Rs6E2om6ANyr4jqt9DGiWsSB9L9U0lz_F1f0dkIcacQ.4d-2ImyNRxpJd79tiDCN4grWqcSQNPfMk7iPdsL3u_I&dib_tag=se&keywords=freenove%2BESP32%2Bwroom&qid=1790503621&sprefix=freenove%2Besp32%2Bwroom%2Caps%2C121&sr=8-2-spons&aref=MU1dvsmDmW&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+1. __FreeNove ESP32 Wroom__ ---- https://www.amazon.co.uk/Freenove-Dual-core-Microcontroller-Wireless-Projects-2-Pack/dp/B0C9TGJRPH/ref=sr_1_2_sspa?crid=29W0QUWX9LBRD&dib=eyJ2IjoiMSJ9.beVRzgfFpa7S78WssaJYRQiS_c-vR-ZReQGUvDayev4s7gjNmL5oTh9_x25u_38YoKWxnaIrqT4ZcbmkeUb_R1IV0iwtU8mVcdv_jC5qHhjC03-cJr0dm_wbTZ9mKoLlcznQNbza2Rhq2MVQI0UPxG1mnY0jZKB1K-reI7F_ZPjY1Bt_zX-XeDOW4gNgBOM8Rs6E2om6ANyr4jqt9DGiWsSB9L9U0lz_F1f0dkIcacQ.4d-2ImyNRxpJd79tiDCN4grWqcSQNPfMk7iPdsL3u_I&dib_tag=se&keywords=freenove%2BESP32%2Bwroom&qid=1790503621&sprefix=freenove%2Besp32%2Bwroom%2Caps%2C121&sr=8-2-spons&aref=MU1dvsmDmW&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
 
-2. Rotary Encoder(cycle through the menu) - https://www.amazon.co.uk/dp/B0BN1MN2KM/ref=sspa_dk_crr_aax_0?psc=1&aref=up00kWO9Bo&sp_csd=d2lkZ2V0TmFtZT1zcF9jcnJfc2hhcmVk
+2. __Rotary Encoder__- https://www.amazon.co.uk/dp/B0BN1MN2KM/ref=sspa_dk_crr_aax_0?psc=1&aref=up00kWO9Bo&sp_csd=d2lkZ2V0TmFtZT1zcF9jcnJfc2hhcmVk
 
-3. TFT Display GC9A01 - https://www.amazon.co.uk/Display-Arduino-Colour-Screen-GC9A01/dp/B0H33VDLX3/ref=sr_1_2?crid=1TYCRGI883USR&dib=eyJ2IjoiMSJ9.hIU0xm82MIG9QQkX7T-vUyNgkjLUjtzA6DDoCpzh4e0ZwBciXKTd-RduLcqa4bx6VRAa91uHlda_vj5a9Vq6q3QDsBgNB631UhCkECoLR2998oV-GGCyTlbNpyDqYVwPtfkY8yXnRVIoGOli88-aFm9zUjvEh0K2yUCYyyzYz3-n7iqWXZWA7ZUlV14w1Be9IeeW216-TPA8y0xqw8CU849vRIP7bGqZ9TvZrPCic3tko6G4-lTh3wuvIZw5WfL5GcufrE7KScSYmuNbLJG6rY7l2S10Yiul6acr9F3DD7Q.pS2_dPpc0MP9Bms8pTmfmC25hBTQtAtLA9B8T1E7lQA&dib_tag=se&keywords=TFT+display+GC9A01+round&qid=1790503866&s=industrial&sprefix=tft+display+gc9a01+round%2Cindustrial%2C107&sr=1-2
+3. __TFT Display GC9A01__ - https://www.amazon.co.uk/Display-Arduino-Colour-Screen-GC9A01/dp/B0H33VDLX3/ref=sr_1_2?crid=1TYCRGI883USR&dib=eyJ2IjoiMSJ9.hIU0xm82MIG9QQkX7T-vUyNgkjLUjtzA6DDoCpzh4e0ZwBciXKTd-RduLcqa4bx6VRAa91uHlda_vj5a9Vq6q3QDsBgNB631UhCkECoLR2998oV-GGCyTlbNpyDqYVwPtfkY8yXnRVIoGOli88-aFm9zUjvEh0K2yUCYyyzYz3-n7iqWXZWA7ZUlV14w1Be9IeeW216-TPA8y0xqw8CU849vRIP7bGqZ9TvZrPCic3tko6G4-lTh3wuvIZw5WfL5GcufrE7KScSYmuNbLJG6rY7l2S10Yiul6acr9F3DD7Q.pS2_dPpc0MP9Bms8pTmfmC25hBTQtAtLA9B8T1E7lQA&dib_tag=se&keywords=TFT+display+GC9A01+round&qid=1790503866&s=industrial&sprefix=tft+display+gc9a01+round%2Cindustrial%2C107&sr=1-2
 
 4. Female to Female Jumper cables
 
@@ -34,7 +34,7 @@ This is a project where you use an ESP32 a round display and rotary encoder and 
 # Connections
 Firstly connect the pins to the ESP32
 
-TFT display GC9A01
+__TFT display GC9A01__
 
 | Pins | Connect | Description/Notes |
 | :--- | :---: | :--- |
@@ -46,7 +46,7 @@ TFT display GC9A01
 | CS | Pin 27 | No Notes |
 | RST | Pin 25 | Doesn't reset anything |
 
-Rotary Encoder
+__Rotary Encoder__
 
 | Pins | Connect | Description/Notes |
 | :--- | :---: | :--- |
@@ -82,7 +82,7 @@ Now all the pins are connected and secured we are now flashing the firmware and 
 These should already be installed when you install the Library Adafruit GC9A01A but please double check without these the device will not run and give errors
 
 
-OPTION 1: Use Arduino to Manually flash the Firmware (requires .Zip) - used to be flashed first time OR versoins V0.2.0 or under
+__OPTION 1__: Use Arduino to Manually flash the Firmware (requires .Zip) - used to be flashed first time OR versoins V0.2.0 or under
 
 1. Download the latest .zip  from releases
 2. Extract the .zip and open Smart toyota.ino
@@ -90,11 +90,11 @@ OPTION 1: Use Arduino to Manually flash the Firmware (requires .Zip) - used to b
 <img width="866" height="495" alt="image" src="https://github.com/user-attachments/assets/a3090cb6-6fcb-4048-8337-c90ace4ae178" />
 
 4. in Arduino IDE to Flash by pressing upload or the arrow going left
-5. You now have flashed the firware!
+5. You now have flashed the firmware!
 
 You will be able to Flash Firmwares VIA Bluetooth by app and OTA.. but requires to flash the firmware VIA Arduino first.
 
-OPTION 2: OTA Updates VIA App/Versions requires V0.2.0+ (You need to use option 1 to use OTA updates)
+__OPTION 2__: OTA Updates VIA App/Versions requires V0.2.0+ (You need to use option 1 to use OTA updates)
 
 1. Head to How to control your device Tab to get the app and device set-up
 2. Connect the display to the app
@@ -126,6 +126,14 @@ Android:
 1. copy this link: https://smart-toyota-companion.x4fk2h4gq4.chatgpt.site
 2. connect to the display and allow permissions
 
+# Other Versions
+If you require other versions
+
+| Version | Link | Changelog |
+| :--- | :--- | :--- |
+| V0.1.5 |https://github.com/jcreed69/Toyota-Smart-Car/releases/download/Smart-Toyota/SmartToyota.zip| First Release |
+| V0.2.0 |https://github.com/jcreed69/Toyota-Smart-Car/releases/download/V0.2.0/SmartToyota.zip| OTA Updates |
+
 # Fixes and FAQ:
 
 How to fix Arduino IDE taking so long to load the UI
@@ -138,6 +146,9 @@ No. There is no line of code which recognises that you are in a toyota or drivin
 
 Does it need Wifi?
 Yes . Wi-fi is required to connect to the display as it needs to send data and connect to the website and use map services and location.
+
+# upcoming features
+No ideas yet
 
 
 
