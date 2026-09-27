@@ -113,6 +113,15 @@ Android:
 1. copy this link: https://smart-toyota-companion.x4fk2h4gq4.chatgpt.site
 2. connect to the display and allow permissions
 
+# Fixes and FAQ:
+
+How to fix Arduino IDE taking so long to load the UI
+
+1. press win + R head to %userprofile% and delete the arduino folder
+2. press win + R head to %appdata% and delete the folder (lowercase) arduino not the captilaised
+
+No FAQ Yet
+
 
 
 
