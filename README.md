@@ -120,7 +120,11 @@ How to fix Arduino IDE taking so long to load the UI
 1. press win + R head to %userprofile% and delete the arduino folder
 2. press win + R head to %appdata% and delete the folder (lowercase) arduino not the captilaised
 
-No FAQ Yet
+Does this have to be for the Toyota?
+No. There is no line of code which recognises that you are in a toyota or driving a toyota. this can go on a bike(3D print mounts) and any other car. This is only an upgrade to the car
+
+Does it need Wifi?
+Yes . Wi-fi is required to connect to the display as it needs to send data and connect to the website and use map services and location.
 
 
 
