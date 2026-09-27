@@ -27,7 +27,7 @@ This is a project where you use an ESP32 a round display and rotary encoder and 
 
 5. Working Laptop running latest arduino IDE(OTA updates coming soon)
 
-6. The latest .Zip file or .bin (OTA updates coming soon) from releases
+6. The latest .Zip file from releases
 
 
 # Connections
@@ -58,13 +58,13 @@ Rotary Encoder
 NOTE: Recommended to use tape so connections will not be loose
 
 # Flashing and Set-Up
+
 Now all the pins are connected and secured we are now flashing the firmware and configuring the Device
 
 1. install Arduino IDE for your Operating System : https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE
    (If Arduino IDE is taking longer than 5 mins to open scroll till you see Fixes and FAQ)
 
 2. Once installed and the UI opens Head to File > Preferences scroll down till you see Additional boards manager URL's, paste this link: https://espressif.github.io/arduino-esp32/package_esp32_index.json and close Preferences. Use the image to help you. <img width="990" height="490" alt="image" src="https://github.com/user-attachments/assets/f17eeb0a-fd25-4e36-bf71-93362184f6dd" />
-
 
 3. Now head to Tools > Board > Board manager and type in the search box esp. scroll down to see esp 32 by Espressif Systems Press install. Use the image to help you  <img width="245" height="237" alt="image" src="https://github.com/user-attachments/assets/206ec1b2-ce0f-4548-82be-66b8c8829455" />
 
@@ -81,7 +81,7 @@ Now all the pins are connected and secured we are now flashing the firmware and 
 These should already be installed when you install the Library Adafruit GC9A01A but please double check without these the device will not run and give errors
 
 
-Use Arduino to Manually flash the Firmware (requires .Zip)
+OPTION 1: Use Arduino to Manually flash the Firmware (requires .Zip) - used to be flashed first time OR versoins V0.2.0 or under
 
 1. Download the latest .zip  from releases
 2. Extract the .zip and open Smart toyota.ino
@@ -91,11 +91,23 @@ Use Arduino to Manually flash the Firmware (requires .Zip)
 4. in Arduino IDE to Flash by pressing upload or the arrow going left
 5. You now have flashed the firware!
 
-You will be able to Flash Firmwares VIA Bluetooth by app and OTA. (coming soon). but requires to flash the firmware VIA Arduino first.
+You will be able to Flash Firmwares VIA Bluetooth by app and OTA.. but requires to flash the firmware VIA Arduino first.
+
+OPTION 2: OTA Updates VIA App/Versions requires V0.2.0+ (You need to use option 1 to use OTA updates)
+
+1. Head to How to control your device Tab to get the app and device set-up
+2. Connect the display to the app
+3. head to the top right or settings
+4. scroll down to see the Title 'Wireless Update'
+5. press Enter update mode this will reset the device
+6. reconnect to the display
+7. head back to settings and press Install latest. This will take a long time
 
 # Features
 
-- Flash Firmware without Arduino IDE (OTA Updates VIA Bluetooth)
+- Flash Firmware without Arduino IDE (OTA Updates VIA Bluetooth (requires V0.2.0+))
+- Demo mode
+- pinn your favorite faces via app
 - Cycles differnt faces: Speed, Time, Journey route, Journey time in car, Navigation, compass heading, weather
 - Change settings via website
 - Makes your car feel new
