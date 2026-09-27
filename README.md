@@ -26,9 +26,8 @@ This is a project where you use an ESP32 a round display and rotary encoder and 
 
 4. Female to Female Jumper cables
 
-5. Working Laptop running latest arduino IDE(OTA updates coming soon)
+5. Working Laptop running latest arduino IDE
 
-6. The latest .Zip file from releases
 
 
 # Connections
