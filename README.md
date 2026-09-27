@@ -81,7 +81,7 @@ Now all the pins are connected and secured we are now flashing the firmware and 
 These should already be installed when you install the Library Adafruit GC9A01A but please double check without these the device will not run and give errors
 
 
-__OPTION 1__: Use Arduino to Manually flash the Firmware (requires .Zip) - used to be flashed first time OR versoins V0.2.0 or under
+__OPTION 1__: Use Arduino to Manually flash the Firmware (requires .Zip) - used to be flashed first time OR versions V0.2.0 or under
 
 1. Download the latest .zip  from releases
 2. Extract the .zip and open Smart toyota.ino
