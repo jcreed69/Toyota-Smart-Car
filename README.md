@@ -148,7 +148,14 @@ Does it need Wifi?
 Yes . Wi-fi is required to connect to the display as it needs to send data and connect to the website and use map services and location.
 
 # upcoming features
-No ideas yet
+V0.2.6
+ - Upside mode - gives a better oppotunity to place this device in the car
+ - Faster OTA updates - currently takes an hour
+ - Ability to use 2 round display an one OLED display
+ - Ability to rename the device for easy connection
+ - Ability to auto connect
+ - ability to chnage the UI
+   
 
 
 
