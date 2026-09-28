@@ -2,18 +2,9 @@
 Makes Old Toyota Cars Smart and Feel New
 
 # what is this project?
-This is a project where you use an ESP32 a round display and rotary encoder and it displays info about the car Example: Time, speed, Weather and more. This project is not too expensive and can be homemade
+This is a project where you use an ESP32 a round display and rotary encoder and it displays info about the car Example: Time, speed, Weather and more. This project is not too expensive and can be homemade. This also uses an app and a website to connect to your device which chnages the face theme UI and so much more.
 # pictures
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/cff12292-9e95-4124-9be0-d99b00d7debf" />
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/d43adb2b-543a-44f5-bacb-a3ebb5ba27f9" />
-<img width="400" height="700" alt="IMG_3956" src="https://github.com/user-attachments/assets/93207b93-c88b-4f55-acfd-386caeb8dae2" />
-<img width="400" height="700" alt="IMG_3955" src="https://github.com/user-attachments/assets/cb479b98-b6b6-45bf-ac6e-0fa839da657c" />
-<img width="300" height="300" alt="IMG_3954" src="https://github.com/user-attachments/assets/ba52de01-c4e2-41d6-9a48-722a7f894e2e" />
-<img width="300" height="300" alt="IMG_3953" src="https://github.com/user-attachments/assets/a755ec12-1a0c-4529-af0f-78e274091f7f" />
-<img width="300" height="300" alt="IMG_3952" src="https://github.com/user-attachments/assets/29206282-913e-4482-808b-7082d3c2bdb6" />
-<img width="300" height="300" alt="IMG_3951" src="https://github.com/user-attachments/assets/6d6971e2-3f4a-4892-b697-746bf79d3515" />
-<img width="300" height="300" alt="IMG_3950" src="https://github.com/user-attachments/assets/c59f856f-9ce5-4c83-8f6d-7129f3082489" />
-<img width="300" height="300" alt="IMG_3949" src="https://github.com/user-attachments/assets/f4cc9030-3dac-4759-ad1f-b0e6a4142391" />
+not yet uploading now...
 
 
 
