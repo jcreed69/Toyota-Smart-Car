@@ -128,11 +128,11 @@ Android:
 # Other Versions
 If you require other versions
 
-| Version | Link | Changelog |
+| Version | Link | Main Change |
 | :--- | :--- | :--- |
 | V0.1.5 |https://github.com/jcreed69/Toyota-Smart-Car/releases/download/Smart-Toyota/SmartToyota.zip| First Release |
 | V0.2.0 |https://github.com/jcreed69/Toyota-Smart-Car/releases/download/V0.2.0/SmartToyota.zip| OTA Updates |
-| V0.2.4 |
+| V0.2.4 |https://github.com/jcreed69/Toyota-Smart-Car/releases/download/V0.2.4/SmartToyota.zip| Faces changes|
 
 # Fixes and FAQ:
 
