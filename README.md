@@ -133,6 +133,7 @@ If you require other versions
 | V0.1.5 |https://github.com/jcreed69/Toyota-Smart-Car/releases/download/Smart-Toyota/SmartToyota.zip| First Release |
 | V0.2.0 |https://github.com/jcreed69/Toyota-Smart-Car/releases/download/V0.2.0/SmartToyota.zip| OTA Updates |
 | V0.2.4 |https://github.com/jcreed69/Toyota-Smart-Car/releases/download/V0.2.4/SmartToyota.zip| Faces changes|
+| V0.2.6 |https://github.com/jcreed69/Toyota-Smart-Car/releases/download/V0.2.6/SmartToyota.zip| Faster OTA updates and upside mode|
 
 # Fixes and FAQ:
 
@@ -148,9 +149,7 @@ Does it need Wifi?
 Yes . Wi-fi is required to connect to the display as it needs to send data and connect to the website and use map services and location.
 
 # upcoming features
-V0.2.6
- - Upside mode - gives a better oppotunity to place this device in the car
- - Faster OTA updates - currently takes an hour
+V0.2.7
  - Ability to use 2 round display an one OLED display
  - Ability to rename the device for easy connection
  - Ability to auto connect
