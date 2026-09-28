@@ -19,7 +19,12 @@ This is a project where you use an ESP32 a round display and rotary encoder and 
 
 5. Working Laptop running latest arduino IDE
 
-
+# extended project
+in estimated V0.4.5 we are introducing an extended project for double the smart in your car. This extended project will include:
+- 2X ESP32
+- 2X TFT GC9A01 Round Display
+- 1X OLED display 0.96 inch
+Scroll down to see the instructions for the extended project. If V0.4.5 is released. the intructions will be there
 
 # Connections
 Firstly connect the pins to the ESP32
@@ -125,6 +130,8 @@ If you require other versions
 | V0.2.0 |https://github.com/jcreed69/Toyota-Smart-Car/releases/download/V0.2.0/SmartToyota.zip| OTA Updates |
 | V0.2.4 |https://github.com/jcreed69/Toyota-Smart-Car/releases/download/V0.2.4/SmartToyota.zip| Faces changes|
 | V0.2.6 |https://github.com/jcreed69/Toyota-Smart-Car/releases/download/V0.2.6/SmartToyota.zip| Faster OTA updates and upside mode|
+
+# extended project instructions
 
 # Fixes and FAQ:
 
