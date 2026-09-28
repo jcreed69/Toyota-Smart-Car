@@ -132,6 +132,7 @@ If you require other versions
 | :--- | :--- | :--- |
 | V0.1.5 |https://github.com/jcreed69/Toyota-Smart-Car/releases/download/Smart-Toyota/SmartToyota.zip| First Release |
 | V0.2.0 |https://github.com/jcreed69/Toyota-Smart-Car/releases/download/V0.2.0/SmartToyota.zip| OTA Updates |
+| V0.2.4 |
 
 # Fixes and FAQ:
 
