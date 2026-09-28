@@ -4,8 +4,8 @@ Makes Old Toyota Cars Smart and Feel New
 # what is this project?
 This is a project where you use an ESP32 a round display and rotary encoder and it displays info about the car Example: Time, speed, Weather and more. This project is not too expensive and can be homemade. This also uses an app and a website to connect to your device which chnages the face theme UI and so much more.
 # pictures
-not yet uploading now...
-
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/385126d5-4f8f-4016-a768-13c8983b8ebb" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/640fae5f-3b9b-49f1-be36-5bc3528e2946" />
 
 
 # What you need:
