@@ -24,6 +24,7 @@ in estimated V0.4.5 we are introducing an extended project for double the smart 
 - 2X ESP32
 - 2X TFT GC9A01 Round Display
 - 1X OLED display 0.96 inch
+  
 Scroll down to see the instructions for the extended project. If V0.4.5 is released. the intructions will be there
 
 # Connections
